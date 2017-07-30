@@ -1,0 +1,2 @@
+# Link-Omega
+Simple Safelink
